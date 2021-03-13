@@ -9,3 +9,5 @@
 
 ### [20210222.md](20210222.md) - ORA-01031: insufficient privileges
 
+### [20210226.md](20210226.md) - ORA-00911: invalid character
+
